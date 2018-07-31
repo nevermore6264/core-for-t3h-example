@@ -20,6 +20,7 @@ public class App17 {
                     multiplication *= i;
                 }
             }
+
             System.out.println("Total : " + total);
             System.out.println("Multiplication : " + multiplication);
         }
